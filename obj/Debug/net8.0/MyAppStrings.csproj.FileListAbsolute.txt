@@ -1,0 +1,14 @@
+C:\dev\MyAppStrings\bin\Debug\net8.0\MyAppStrings.exe
+C:\dev\MyAppStrings\bin\Debug\net8.0\MyAppStrings.deps.json
+C:\dev\MyAppStrings\bin\Debug\net8.0\MyAppStrings.runtimeconfig.json
+C:\dev\MyAppStrings\bin\Debug\net8.0\MyAppStrings.dll
+C:\dev\MyAppStrings\bin\Debug\net8.0\MyAppStrings.pdb
+C:\dev\MyAppStrings\obj\Debug\net8.0\MyAppStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\MyAppStrings\obj\Debug\net8.0\MyAppStrings.AssemblyInfoInputs.cache
+C:\dev\MyAppStrings\obj\Debug\net8.0\MyAppStrings.AssemblyInfo.cs
+C:\dev\MyAppStrings\obj\Debug\net8.0\MyAppStrings.csproj.CoreCompileInputs.cache
+C:\dev\MyAppStrings\obj\Debug\net8.0\MyAppStrings.dll
+C:\dev\MyAppStrings\obj\Debug\net8.0\refint\MyAppStrings.dll
+C:\dev\MyAppStrings\obj\Debug\net8.0\MyAppStrings.pdb
+C:\dev\MyAppStrings\obj\Debug\net8.0\MyAppStrings.genruntimeconfig.cache
+C:\dev\MyAppStrings\obj\Debug\net8.0\ref\MyAppStrings.dll
